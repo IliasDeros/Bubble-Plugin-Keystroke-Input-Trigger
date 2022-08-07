@@ -1,0 +1,12 @@
+{
+    "caption": "manually set output text",
+    "fields": {
+        "AAe": {
+            "caption": "text",
+            "editor": "DynamicValue",
+            "name": "text",
+            "rank": 0,
+            "value": "text"
+        }
+    }
+}

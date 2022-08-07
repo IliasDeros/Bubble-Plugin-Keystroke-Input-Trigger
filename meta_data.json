@@ -1,0 +1,14 @@
+{
+    "categories": {
+        "0": "technical",
+        "1": "ecommerce",
+        "2": "containers"
+    },
+    "demo_page": "https://inputchangetrigger.bubbleapps.io/",
+    "description": "Triggers a workflow as you type individual keystrokes into an input with a configurable delay, similar to the native searchbox input.\n\nThe Problem:\nThe only way to listen to an input's value change is on the \"blur\" event, when you remove focus from the input.\n\nUse Cases:\n- Autocomplete search\n\nAdjustable 'timeout' lets you define how long between keystrokes the workflow should trigger.",
+    "image": "//s3.amazonaws.com/appforest_uf/f1564886546315x353844469671336300/noun_Input_333576.png",
+    "license": "open_source",
+    "link": "",
+    "name": "Trigger Workflow On Type",
+    "plugin_instructions": "1) Add the 'input watcher' element to your page\n\n2) Set the text_input value to your element\n\n3) Use the new workflow trigger \"Input Monitor has changed\""
+}

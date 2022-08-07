@@ -1,5 +1,12 @@
 {
+    "assets": {
+        "AAU": {
+            "name": "placholder",
+            "url": "//dd7tel2830j4w.cloudfront.net/f1564947638887x836991193137257100/noun_Input_333576.png"
+        }
+    },
     "dependencies": {
-        "use_jquery": true
+        "plugin_api_version": "3",
+        "use_jquery": false
     }
 }
